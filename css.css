@@ -1,0 +1,9 @@
+body {background-color: lightgoldenrodyellow;}
+h1 {outline-style:dashed; outline-color: burlywood}
+h1 {
+	color: black;
+	margin: 20px;
+}
+p {color: dimgrey;}
+button {color: red}
+img {border-radius: 150px}
